@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dawn
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
@@ -97,3 +98,7 @@ Ensure that you follow the list of [theme store requirements](https://shopify.de
 ## License
 
 Copyright (c) 2021-present Shopify Inc. See [LICENSE](/LICENSE.md) for further details.
+=======
+# custom-shopify-theme
+modified Dawn shopify theme
+>>>>>>> 21a8c8e81db3c7d22116df7b9f8de28009960d67
