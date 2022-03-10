@@ -1,12 +1,6 @@
 <div class="image-banner-container">
+    <img src="{{ section.settings.imagebnr | image_url: '500x500' }}" />
 <div>
-
-<style>
-    div.image-banner-container {
-        background-image: url("https://images.squarespace-cdn.com/content/v1/5d8261a57011d437ab16ddfb/1570390524767-WAU6O0OMZKFNSJYFR8UV/Wood+Wall_1_Overlay.jpg");
-        height: 500px;
-    }
-</style>
 
 {% schema %}
     {
@@ -16,8 +10,8 @@
         "settings": [
                 {
                     "type": "image_picker",
-                    "id": "image-bnr",
-                    "label": "select image"
+                    "id": "imagebnr",
+                    "label": "Select image"
                 }
                     ]
     }
